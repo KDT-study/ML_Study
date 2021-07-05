@@ -1,24 +1,47 @@
 # :notebook_with_decorative_cover: ​Machine Learning
 
-## How to study
+## Rule
 
-1. Read Summary and study about detail part of the content
-2. Review the sample code and how to analyze the sample data
-3. Make the code about sample data to analyzing by content
-4. Make a better solution than sample code
+> [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/pymldg-rev ) 내용을 기준으로 진행합니다.
+
+**Schedule** :  월, 목 오후 8시 30분 ML 스터디 진행
+
+- :microphone:  **발표자**
+  - 발표할 부분에 대한 책의 내용 및 코드를 작성합니다.
+  - 작성된 내용은 Git에 ` Chap + 숫자 + _ + 제목(EN)(ex. Chap04_Classification)` 제목으로 Commit 합니다
+  - Study Tracker 및 Contents를 작성합니다
+- :headphones:  **참여자**
+  - 업로드된 책의 내용 및 코드를 읽고 참여합니다
+  - 추가적인 질문 사항은 미리 공유해도 좋습니다 :D
+
+- :link:  **Share**
+  - Chapter → :open_file_folder:`04 + Section name` 
+  - data&image → :open_file_folder:`04 + Section name \ data or image`
+
+
 
 ## Study Tracker
 
-| Date     | Content                     | Dataset | marked             |
-| -------- | --------------------------- | ------- | ------------------ |
-| 21.06.21 | OT + Classification(binary) | MINIST  | :black_nib: `-ing` |
-| 21.06.24 | Classification(Multi-class) |         |                    |
-|          |                             |         |                    |
+| Date     | Content                                    | marked             |
+| -------- | ------------------------------------------ | ------------------ |
+| 21.07.05 | OT + 04. Classification(1)(~random forest) | :smiley: done      |
+| 21.07.08 | 04. Classification(2)                      | :black_nib: `-ing` |
+|          |                                            |                    |
 
 ## Reference
 
-- Hands_on Machine Learning ver_2
+- [파이썬 머신 러닝 완벽 가이드](https://github.com/wikibook/pymldg-rev)
+- [scikt](https://scikit-learn.org/ )
 
-- https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
-- 
+
+
+## Contents
+
+:open_file_folder: **04. Classification**
+
+​		:open_file_folder: data
+
+​		:open_file_folder: image
+
+​		Chap 04. Classification(1) : 분류개요 ~ 랜덤포레스트
 
