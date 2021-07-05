@@ -39,9 +39,9 @@
 
 :open_file_folder: **04. Classification**
 
-​		:open_file_folder: data
+└ :open_file_folder: data
 
-​		:open_file_folder: image
+└ :open_file_folder: image
 
-​		Chap 04. Classification(1) : 분류개요 ~ 랜덤포레스트
+└ Chap 04. Classification(1) : 분류개요 ~ 랜덤포레스트
 
