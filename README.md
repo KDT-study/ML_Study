@@ -4,12 +4,13 @@
 
 > [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/pymldg-rev ) 내용을 기준으로 진행합니다.
 
-**Schedule** :  월, 목 오후 8시 30분 ML 스터디 진행
+**Schedule** :  월, 목 오후 8시 ML 스터디 진행
 
 - :microphone:  **발표자**
   - 발표할 부분에 대한 책의 내용 및 코드를 작성합니다.
-  - 작성된 내용은 Git에 ` Chap + 숫자 + _ + 제목(EN)(ex. Chap04_Classification)` 제목으로 Commit 합니다
-  - Study Tracker 및 Contents를 작성합니다
+  - 작성된 내용은 Git에 ` Chap + 숫자 + _ + 제목(EN)(ex. Chap04_Classification)` 제목으로 Commit 합니다.
+  - Study Tracker 및 Contents를 작성합니다.
+  - 모든 내용은 branch에서 작성 후 merge하는 방식으로 진행합니다!
 - :headphones:  **참여자**
   - 업로드된 책의 내용 및 코드를 읽고 참여합니다
   - 추가적인 질문 사항은 미리 공유해도 좋습니다 :D
@@ -22,11 +23,11 @@
 
 ## Study Tracker
 
-| Date     | Content                                    | marked             |
-| -------- | ------------------------------------------ | ------------------ |
-| 21.07.05 | OT + 04. Classification(1)(~random forest) | :smiley: done      |
-| 21.07.08 | 04. Classification(2)                      | :black_nib: `-ing` |
-|          |                                            |                    |
+| Date     | Content                                    | 발표자 |       marked       |
+| -------- | ------------------------------------------ | :----: | :----------------: |
+| 21.07.05 | OT + 04. Classification(1)(~random forest) |  윤희  |   :smiley: done    |
+| 21.07.08 | 04. Classification(2)(~rightGBM)           |  현범  | :black_nib: `-ing` |
+|          |                                            |        |                    |
 
 ## Reference
 
@@ -39,9 +40,9 @@
 
 :open_file_folder: **04. Classification**
 
-└ :open_file_folder: data
+└─ :file_folder: data
 
-└ :open_file_folder: image
+└─ :file_folder: image
 
-└ Chap 04. Classification(1) : 분류개요 ~ 랜덤포레스트
+└─ Chap04.Classification(1) : 분류 개요 ~ 랜덤포레스트 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/04.Classification/Chap04_Classification(1).ipynb)
 
