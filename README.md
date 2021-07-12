@@ -23,11 +23,11 @@
 
 ## Study Tracker
 
-| Date     | Content                                    | 발표자 |       marked       |
-| -------- | ------------------------------------------ | :----: | :----------------: |
-| 21.07.05 | OT + 04. Classification(1)(~random forest) |  윤희  |   :smiley: done    |
-| 21.07.08 | 04. Classification(2)(~rightGBM)           |  현범  | :black_nib: `-ing` |
-|          |                                            |        |                    |
+| Date     | Content                                    | 발표자 |    marked     |
+| -------- | ------------------------------------------ | :----: | :-----------: |
+| 21.07.05 | OT + 04. Classification(1)(~random forest) |  윤희  | :smiley: done |
+| 21.07.08 | 04. Classification(2)(~rightGBM)           |  현범  | :smiley: done |
+| 21.07.12 | 05. Regression(1)(~polynomial regression)  |  윤희  | :smiley: done |
 
 ## Reference
 
@@ -46,3 +46,8 @@
 
 └─ Chap04.Classification(1) : 분류 개요 ~ 랜덤포레스트 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/04.Classification/Chap04_Classification(1).ipynb)
 
+└─ Chap04.Classification(2) : ~rightGBM [open colab](https://colab.research.google.com/github/KDT-study/ML_Study/blob/master/04.Classification/Chap04.Classification(2)GBM_XGB_LGB.ipynb)
+
+:open_file_folder: **05. Regression**
+
+└─ Chap05.Regression(1) : 회귀 개요 ~ 다항회귀 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/04.Classification/Chap04_Classification(1).ipynb)
