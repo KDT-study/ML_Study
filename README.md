@@ -46,8 +46,8 @@
 
 └─ Chap04.Classification(1) : 분류 개요 ~ 랜덤포레스트 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/04.Classification/Chap04_Classification(1).ipynb)
 
-└─ Chap04.Classification(2) : ~rightGBM [open colab](https://colab.research.google.com/github/KDT-study/ML_Study/blob/master/04.Classification/Chap04.Classification(2)GBM_XGB_LGB.ipynb)
+└─ Chap04.Classification(2) : ~rightGBM [open colab](https://colab.research.google.com/github/KDT-study/ML_Study/blob/master/04.Classification/Chap04_Classification(2)GBM_XGB_LGB.ipynb)
 
 :open_file_folder: **05. Regression**
 
-└─ Chap05.Regression(1) : 회귀 개요 ~ 다항회귀 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/04.Classification/Chap04_Classification(1).ipynb)
+└─ Chap05.Regression(1) : 회귀 개요 ~ 다항회귀 [open colab](https://colab.research.google.com/github/yunions/pymldg-rev/blob/master/Chap05_Regreesion(1).ipynb)
